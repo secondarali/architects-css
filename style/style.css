@@ -1,0 +1,74 @@
+/* header style */
+
+.architect-contain{
+    background-color: rgba(255, 144, 14, 0.1);
+    /* width: 1920px;
+    height: 1322px; */
+   margin-top: 20px;
+   margin-left: 147px;
+}
+.area h3 {
+    margin-top: 40px;
+    margin-left: 81px;
+    font-weight: 700;
+}
+.architect-itme{
+text-align: start;
+    
+}
+.contact-itme{
+    padding-left:300px;
+    text-align: end;
+    margin-right: 283px;
+    margin-top: 43px;
+
+}
+
+li{
+    display: inline;
+    padding: 20px;
+    color: #424242;
+
+}
+.new-group{
+width: 862px;
+height: 225px;
+margin-left: 382px;
+margin-top: 185px;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+text-align: center;
+color: #727272;
+} 
+
+h1{
+ font-weight: 860px;
+ color: black;
+ text-align: center;
+ margin-bottom: 32px;
+ 
+}
+.btn{
+    background-color:rgb(245, 162, 8) ;
+    color: white;
+    width: 100px;
+    height: 34px;
+    border-radius: 5px;
+    margin-top: 32px;
+    margin-bottom: 50px;
+}
+*/
+.pic-area{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+.explore{
+    width: 537px;
+    height: 340px;
+    text-align: left;
+}
+.staf{width: 342px;
+      height: 342px;
+} 
